@@ -3,7 +3,6 @@
 <head>
   <meta content="text/html; charset=ISO-8859-1"
  http-equiv="content-type">
-  <title>Desigualdad Econ&oacute;mica</title>
 </head>
 <body
  style="background-color: rgb(234, 205, 156); color: rgb(0, 0, 0);"
