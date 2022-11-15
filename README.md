@@ -1,4 +1,3 @@
-# Desigualdad-Economica
 <html>
 <head>
   <meta content="text/html; charset=ISO-8859-1"
@@ -190,6 +189,5 @@ inseguridad</span><o:p></o:p></span></li>
  style="font-size: 14pt; line-height: 115%; font-family: ATypewriterForMe;">Pol&iacute;ticas
 fiscales que &lsquo;penalicen&rsquo; a las rentas altas.</span></li>
 </ul>
-</div>
 </body>
 </html>
