@@ -1,5 +1,4 @@
 # Desigualdad-Economica
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
   <meta content="text/html; charset=ISO-8859-1"
@@ -45,9 +44,6 @@ lograr un
 futuro sostenible.</span></span></p>
 <p class="MsoNormal"
  style="text-align: justify; color: rgb(153, 51, 0); background-color: rgb(234, 205, 156);"></p>
-<div style="text-align: center;"><img
- style="width: 337px; height: 224px;" alt="desigualdad"
- src="file:///C:/Users/leira/Pictures/desi.PNG"></div>
 <p class="MsoNormal"
  style="text-align: justify; color: rgb(153, 51, 0); background-color: rgb(234, 205, 156);"><span
  style="font-size: 14pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><span
@@ -87,9 +83,6 @@ cuando las personas no pueden acceder al conocimiento, sus
 oportunidades laborales se ven limitadas, lo que perpet&uacute;a la
 situaci&oacute;n pobreza.</span></span></li>
 </ul>
-<div style="text-align: center;"><img
- style="width: 303px; height: 202px;" alt="informaci&oacute;n"
- src="file:///C:/Users/leira/Pictures/informacion.PNG"></div>
 <ul
  style="margin-top: 0cm; color: rgb(153, 51, 0); background-color: rgb(234, 205, 156);"
  type="disc">
@@ -108,9 +101,6 @@ los afectan favorece la&nbsp;</span></span><a
  style="font-size: 14pt;"><span
  style="color: rgb(0, 0, 0);">.</span></span></li>
 </ul>
-<div style="text-align: center;"><img
- style="width: 398px; height: 243px;" alt="decisiones"
- src="file:///C:/Users/leira/Pictures/toma.PNG"></div>
 <ul
  style="margin-top: 0cm; color: rgb(153, 51, 0); background-color: rgb(234, 205, 156);"
  type="disc">
@@ -125,9 +115,6 @@ mujeres en muchos pa&iacute;ses reciban un trato desigual en cuanto
 al acceso a la educaci&oacute;n o al mundo laboral tiene efectos
 negativos sobre la sociedad.</span></span></li>
 </ul>
-<div style="text-align: center;"><img
- style="width: 268px; height: 188px;" alt="g&eacute;nero"
- src="file:///C:/Users/leira/Pictures/genero.PNG"></div>
 <ul
  style="margin-top: 0cm; color: rgb(153, 51, 0); background-color: rgb(234, 205, 156);"
  type="disc">
@@ -147,9 +134,7 @@ al progreso.</span> &nbsp;</span><o:p></o:p></span></li>
 </ul>
 <p class="MsoNormal"
  style="color: rgb(153, 51, 0); background-color: rgb(234, 205, 156); text-align: center;"><span
- style="font-size: 18pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p>&nbsp;<img
- style="width: 277px; height: 215px;" alt="conflictos"
- src="file:///C:/Users/leira/Pictures/conflictos.PNG"></o:p></span></p>
+ style="font-size: 18pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p>&nbsp;</o:p></span></p>
 <p class="MsoNormal"
  style="text-align: justify; color: rgb(153, 51, 0); background-color: rgb(234, 205, 156);"><span
  style="font-size: 18pt; line-height: 115%; font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><o:p></o:p></span></p>
@@ -206,8 +191,6 @@ inseguridad</span><o:p></o:p></span></li>
  style="font-size: 14pt; line-height: 115%; font-family: ATypewriterForMe;">Pol&iacute;ticas
 fiscales que &lsquo;penalicen&rsquo; a las rentas altas.</span></li>
 </ul>
-<div style="text-align: center;"><img
- style="width: 474px; height: 316px;" alt="desigualdad"
- src="file:///C:/Users/leira/Pictures/desigualdad-economica.PNG"></div>
+</div>
 </body>
 </html>
